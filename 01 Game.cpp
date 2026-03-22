@@ -20,8 +20,10 @@ int main() {
             cout << "DA" << endl;
         } else {
             cout << "NET" << endl;
+            exit;
         }
     }
 
     return 0;
+
 }
